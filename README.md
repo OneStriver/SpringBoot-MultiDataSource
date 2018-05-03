@@ -1,0 +1,2 @@
+# SpringBoot-MultiDataSource
+这是配置多个数据源切换的项目,可以在方法上指定访问的数据源
